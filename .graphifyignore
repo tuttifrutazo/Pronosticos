@@ -1,0 +1,11 @@
+data/**
+backups/**
+.tools/**
+.codex/**
+.env*
+*.sqlite*
+*.log
+tests/**
+docs/espn-probe.json
+docs/*probe.json
+docs/prediction.example.json

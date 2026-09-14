@@ -1,0 +1,11 @@
+data/
+backups/
+.tools/
+.env*
+*.log
+tests/tmp/
+docs/espn-probe.json
+docs/*probe.json
+graphify-out/
+.codex/
+node_modules/

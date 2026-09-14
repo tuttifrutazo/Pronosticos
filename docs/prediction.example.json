@@ -1,0 +1,20 @@
+{
+  "id": "EJEMPLO-NO-IMPORTAR",
+  "createdAt": "2026-09-12T09:00:00Z",
+  "match": {"id":"espn:esp.1:100","providerId":"100","league":"esp.1","season":"2026-27","homeId":"1","awayId":"2","home":"Equipo ficticio A","away":"Equipo ficticio B","kickoff":"2026-09-13T18:00:00Z"},
+  "market": "goals",
+  "selection": "over",
+  "line": 2.5,
+  "period": "90m",
+  "bookmaker": "Bet365",
+  "ruleId": null,
+  "odds": null,
+  "oddsCheckedAt": null,
+  "oddsVerified": false,
+  "minOdds": 1.4,
+  "probability": null,
+  "probabilityMethod": null,
+  "reasoning": "Ejemplo de estructura, NO es un pronóstico.",
+  "sources": [{"title":"Fuente ficticia de ejemplo","url":"https://example.com","accessedAt":"2026-09-12T09:00:00Z"}],
+  "availableData": {"example":true,"missing":["Sustituir por datos reales disponibles en la emisión"]}
+}
